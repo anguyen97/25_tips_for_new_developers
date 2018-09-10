@@ -1,10 +1,10 @@
-# 25 Lời khuyên cho các nhà phát triển mới: Lời khuyên từ một kỹ sư phần mềm
+# 25 Lời khuyên cho các nhà phát triển mới: Lời khuyên từ một kỹ sư phần mềm (chủ yếu) tự học
 
 Câu hỏi phổ biến nhất mà tôi nhận được từ những người đọc blog là "Lời khuyên của bạn dành cho các lập trình viên mới là gì?" Vì vậy, tôi nghĩ đã đến lúc viết ra những suy nghĩ của tôi.
 
 Tôi sẽ viết lên toàn bộ câu chuyện của mình trong tương lai, nhưng tôi đã qua hai lớp khoa học máy tính ở trường đại học. Một thời gian ngắn sau đó, tôi có được vị trí thực tập kỹ sư phần mềm. Tôi bắt đầu thực hiện công việc phát triển web, ban đầu trên backend và cuối cùng là trên frontend. Trường của tôi chắc chắn không dạy phát triển web, vì vậy tôi đã tự học một mình trong các lớp khoa học máy tính đầu tiên.
 
-Tôi không nghĩ câu chuyện của mình là duy nhất - tất cả các lập trình viên đều tự học ở một mức độ nào đó, cho dù đó là tự học hoàn toàn hay họ có người hướng dẫn về khoa học máy tính, nhưng họ tự học RegEx trên đường đi. Thực tế, tự học có thể là một trong những kỹ năng quan trọng nhất mà bạn có thể có với tư cách là một nhà phát triển.
+Tôi không nghĩ câu chuyện của mình là duy nhất - tất cả các lập trình viên đều tự học ở một mức độ nào đó, cho dù đó là tự học hoàn toàn hay họ có người hướng dẫn về khoa học máy tính, nhưng họ tự học RegEx suốt quá trình. Thực tế, tự học có thể là một trong những kỹ năng quan trọng nhất mà bạn có thể có với tư cách là một nhà phát triển.
 
 Ngoài kinh nghiệm của riêng tôi, tôi cũng dạy mọi người code như công việc chính của tôi và cho các tổ chức mà tôi hoạt động tình nguyện - vì vậy bài viết này cũng dựa trên những kinh nghiệm đó.
 
@@ -25,7 +25,7 @@ Một điều khác sẽ thực sự hữu ích là tìm một cộng đồng đ
 Một trong những phần quan trọng nhất của lập trình là lấy một vấn đề lớn và phá vỡ nó thành những phần nhỏ hơn và nhỏ hơn nữa cho đến khi những phần đó có thể giải được. Nếu bạn đang xem xét một trình soạn thảo văn bản trống không biết bắt đầu từ đâu, có thể là do bạn chưa chia nhỏ vấn đề này!
 
 ##### 5 . Pseudocode
-Liên quan đến vấn đề trước, sẽ rất có lợi khi dành nhiều thời gian để viết ra chi tiết những gì bạn đang cố gawgns thực hiện thành chữ trước khi cố gắng viết code. Quá trình này được gọi là mã giả, và có thể viết bất cứ gì bạn muốn. Điều này cũng có ích trong việc giải quyết 1 vấn đề thực sự chậm trên giấy trước tiên, nghĩ về hay thậm chí viết ra từng bước mà bạn đang giải quyết vấn đề đó.
+Liên quan đến vấn đề trước, sẽ rất có lợi khi dành nhiều thời gian để viết ra chi tiết những gì bạn đang cố gắng thực hiện thành chữ trước khi cố gắng viết code. Quá trình này được gọi là mã giả, và có thể viết bất cứ gì bạn muốn. Điều này cũng có ích trong việc giải quyết 1 vấn đề thực sự chậm trên giấy trước tiên, nghĩ về hay thậm chí viết ra từng bước mà bạn đang giải quyết vấn đề đó.
 
 ##### 6 . Bao quát chu kỳ học tập
 Nếu bạn đang học code như một nghề tay trái, đặc biệt là nếu bạn đã rời khỏi lớp học một thời gian, học cách học hỏi sẽ là một phần quan trọng trong tiến trình của bạn. Có rất nhiều thăng trầm liên quan, rất tự nhiên! Tôi sẽ tự giằng co cho đến khi bắt đầu.
